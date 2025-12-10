@@ -1,0 +1,61 @@
+
+  {
+    "customer_id": "CUST_0001",
+    "txn_count": 3.0,
+    "total_debit": -65.98,
+    "total_credit": 2500.0,
+    "avg_amount": 811.34,
+    "kw_rent": 0,
+    "kw_netflix": 1,
+    "kw_tesco": 1,
+    "kw_payroll": 1,
+    "kw_bonus": 0
+  },
+  {
+    "customer_id": "CUST_0002",
+    "txn_count": 2.0,
+    "total_debit": -650.0,
+    "total_credit": 1800.0,
+    "avg_amount": 575.0,
+    "kw_rent": 1,
+    "kw_netflix": 0,
+    "kw_tesco": 0,
+    "kw_payroll": 1,
+    "kw_bonus": 0
+  },
+  {
+    "customer_id": "CUST_0003",
+    "txn_count": 2.0,
+    "total_debit": -300.0,
+    "total_credit": 1200.0,
+    "avg_amount": 450.0,
+    "kw_rent": 0,
+    "kw_netflix": 0,
+    "kw_tesco": 0,
+    "kw_payroll": 1,
+    "kw_bonus": 0
+  },
+  {
+    "customer_id": "CUST_0004",
+    "txn_count": 2.0,
+    "total_debit": -400.0,
+    "total_credit": 900.0,
+    "avg_amount": 250.0,
+    "kw_rent": 1,
+    "kw_netflix": 0,
+    "kw_tesco": 0,
+    "kw_payroll": 1,
+    "kw_bonus": 0
+  },
+  {
+    "customer_id": "CUST_0005",
+    "txn_count": 1.0,
+    "total_debit": 0.0,
+    "total_credit": 6500.0,
+    "avg_amount": 6500.0,
+    "kw_rent": 0,
+    "kw_netflix": 0,
+    "kw_tesco": 0,
+    "kw_payroll": 0,
+    "kw_bonus": 1
+  }

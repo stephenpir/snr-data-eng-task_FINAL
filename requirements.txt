@@ -1,0 +1,9 @@
+# Data Engineering and API Service Requirements
+pandas==1.5.3
+numpy==1.26.4
+matplotlib==3.7.0
+seaborn==0.12.2
+fastapi==0.118.2
+pydantic==2.11.7
+joblib==1.5.2
+uvicorn==0.37.0
