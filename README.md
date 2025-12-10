@@ -1,5 +1,5 @@
 My home dev setup uses Python 3.10.9 and a requirements.txt is provided at the project root
-My solution is in the "Stephen_Pir_answers" directory with Parts and exericise number clearly numbered in file titles and code comments.
+My solution is in the "Stephen_Pir_answers" directory with Parts and exericise numbers in file titles and code comments.
 The code is heavily commented for readability and to give indication of my thoughts.
 I have also provided a requests.http with the data from the produced training set
 
